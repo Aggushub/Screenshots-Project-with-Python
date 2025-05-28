@@ -1,5 +1,7 @@
 ## 📸 Python Screenshot Capture Tool
 
+![Screenshot](Screenshot_Project/Screenshots/Screenshot_20250527_214338.png)
+
 This repository contains two Python scripts that allow users to take screenshots easily using the `pyautogui` library. One script features a **Graphical User Interface (GUI)** using `tkinter`, and the other is a **console-based version** for lightweight usage.
 
 ---
@@ -81,6 +83,4 @@ python screenshot_cli.py
 ├── screenshot_gui.py        # GUI version
 ├── screenshot_cli.py        # Console version
 └── README.md
-```
-
 ---
